@@ -1,1 +1,1 @@
-This repository is partial project I have done during my course work in BCIT
+This repository is partial projects I have done during my course work on BCIT

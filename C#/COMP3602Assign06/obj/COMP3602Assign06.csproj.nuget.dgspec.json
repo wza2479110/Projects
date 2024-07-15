@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\COMP3602Assign06\\COMP3602Assign06.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\BusinessLib\\BusinessLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\BusinessLib\\BusinessLib.csproj",
+        "projectName": "BusinessLib",
+        "projectPath": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\BusinessLib\\BusinessLib.csproj",
+        "packagesPath": "C:\\Users\\wza24\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\BusinessLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wza24\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\COMP3602Assign06\\COMP3602Assign06.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\COMP3602Assign06\\COMP3602Assign06.csproj",
+        "projectName": "COMP3602Assign06",
+        "projectPath": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\COMP3602Assign06\\COMP3602Assign06.csproj",
+        "packagesPath": "C:\\Users\\wza24\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\COMP3602Assign06\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wza24\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\BusinessLib\\BusinessLib.csproj": {
+                "projectPath": "C:\\Users\\wza24\\Desktop\\Project\\C#\\COMP3602Assign06\\BusinessLib\\BusinessLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

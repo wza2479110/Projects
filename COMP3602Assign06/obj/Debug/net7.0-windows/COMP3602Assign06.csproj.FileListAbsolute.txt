@@ -1,0 +1,142 @@
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.exe
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.deps.json
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.runtimeconfig.json
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.pdb
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.AssemblyReference.cache
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.MainForm.resources
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.GenerateResource.cache
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.AssemblyInfoInputs.cache
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.AssemblyInfo.cs
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.CoreCompileInputs.cache
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.CopyComplete
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\refint\COMP3602Assign06.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.pdb
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.genruntimeconfig.cache
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\ref\COMP3602Assign06.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.dll.config
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.ClientForm.resources
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\BusinessLib.dll
+C:\Users\wza24\source\repos\C# learning\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\BusinessLib.pdb
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.exe
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.dll.config
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.deps.json
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.runtimeconfig.json
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\COMP3602Assign06.pdb
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\BusinessLib.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\bin\Debug\net7.0-windows\BusinessLib.pdb
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.AssemblyReference.cache
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.ClientForm.resources
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.MainForm.resources
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.GenerateResource.cache
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.AssemblyInfoInputs.cache
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.AssemblyInfo.cs
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.CoreCompileInputs.cache
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.csproj.CopyComplete
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\refint\COMP3602Assign06.dll
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.pdb
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\COMP3602Assign06.genruntimeconfig.cache
+C:\Users\wza24\Desktop\Project\C#\COMP3602Assign06\COMP3602Assign06\obj\Debug\net7.0-windows\ref\COMP3602Assign06.dll

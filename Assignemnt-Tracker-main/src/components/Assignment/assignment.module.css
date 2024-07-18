@@ -1,0 +1,78 @@
+.assignment {
+  width: 100%;
+  background: #262626;
+  border: 1px solid #333333;
+  padding: 16px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.assignment p {
+  font-size: 14px;
+  line-height: 19px;
+  color: #f2f2f2;
+  margin-right: auto;
+}
+
+.checkContainer {
+  width: 18px;
+  height: 18px;
+  background: #262626;
+  border: none;
+}
+
+.checkContainer div {
+  width: 100%;
+  height: 100%;
+  border-radius: 999px;
+  border: 2px solid #4ea8de;
+}
+
+.checkContainer svg {
+  width: 100%;
+  height: 100%;
+  color: #5e60ce;
+}
+
+.info {
+  display: flex;
+  gap: 12px;
+}
+
+p.textCompleted {
+  color: #808080;
+  text-decoration: line-through;
+  align-self: center;
+}
+
+p.name {
+  align-self: center;
+}
+
+p.tomorrow {
+  border: 1px solid #4B4B4B;
+  font-weight: bolder;
+  border-radius: 30px;
+  padding: 7px 10px 7px 10px;
+  background: #F71033;
+}
+
+p.deadline {
+  border: 1px solid #4B4B4B;
+  font-weight: bolder;
+  border-radius: 30px;
+  padding: 7px 10px 7px 10px;
+  background: #4B4B4B;
+}
+
+.deleteButton {
+  background: none;
+  border: none;
+  color: #808080;
+}
+
+.delete {
+  margin-left: auto;
+}

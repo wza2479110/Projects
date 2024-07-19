@@ -1,0 +1,219 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PlushCV - One Page Two Column Resume
+% LaTeX Template
+% Version 1.0 (11/28/2021)
+%
+% Author:
+% Shubham Mazumder (http://mazumder.me)
+%
+% Hacked together from:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add more icon options 
+% 4. Fix hacky left alignment on contact line
+% 5. Remove Hacky fix for awkward extra vertical space
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the vertical limit.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%Icons:
+%%Main: https://icons8.com/icons/carbon-copy
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{plushcv}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\namesection{ \fontsize{40}{50}\selectfont Alex (Zian)}{ \fontsize{40}{50}\selectfont Wang} 
+{\normalsize Software Engineer Intern}
+{\contactline{{Vancouver,BC}}
+{\href{https://github.com/wza2479110}{\normalsize Alex Wang}}
+{\href{https://www.linkedin.com/in/alexzianwang/}{ \normalsize Alex Wang}}
+{\href{mailto:wza2479110@gmail.com}{ \normalsize wza2479110@gmail.com}}
+{\href{tel:+16043698366}{(604)-369-8366}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.65 \textwidth} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{ZL EOR Chemicals Ltd.}
+\descript{|Web Developer Intern}
+\location{February 2023 - July 2023 | Vancouver, BC}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\sectionsep
+\item Utilized \textbf{JavaScript} and \textbf{HTML/CSS} to maintain and update the company website, ensuring accurate information and seamless functionality.
+\item Provided technical support for website issues, showcasing problem-solving skills.
+\item Managed website content, including updating new context into existing information.
+\item Collaborated with the IT team to implement improvements and troubleshoot issues, utilizing \textbf{Git} for efficient workflow management.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Crabro Restaurant}
+\descript{|Executive Chef}
+\location{May 2017 - May 2019 | Burnaby, BC}
+\begin{tightemize}
+\sectionsep
+\item Developed and implemented efficient workflows, similar to optimizing processes in software development.
+\item Managed multiple tasks in a fast-paced environment, demonstrating multitasking skills.
+\item Fostered a positive team environment, promoting a culture of recognition and motivation.
+\end{tightemize}
+
+% \runsubsection{Alexander College}
+% \descript{|Front Desk Receptionist}
+% \location{April 2016 - August 2016 | Burnaby, BC}
+% \begin{tightemize}
+% \sectionsep
+% \item Provided excellent customer service and addressed inquiries promptly.
+% \item Maintained clear communication with students, staff, and faculty.
+% \item Quickly resolved front desk issues, demonstrating problem-solving abilities.
+% \end{tightemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{BCIT Assignment Tracker}
+\descript{| React }
+\location{May 2023 | COMP3015, BCIT}
+\begin{tightemize}
+\item Developed a React app for tracking BCIT assignments with features for adding, deleting, and marking as completed.
+\item Ensured the Create button functionality was disabled when the input field was empty, enhancing user experience.
+\item Utilized React state management to dynamically update the assignment list and track the number of created and completed assignments.
+\item Integrated react-icons library for UI enhancements and implemented conditional rendering for assignment status.
+\item Conducted thorough testing to ensure all features worked as expected and improved overall application performance.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{ Web Application Project}
+\descript{| PHP}
+\location{March 2023 | COMP3015, BCIT}
+\begin{tightemize}
+\item Developed a PHP, MySQL, and JavaScript web app for user registration, login, and article management.
+\item Implemented secure authentication and parameterized queries to prevent SQL injection.
+\item Designed a responsive user interface with HTML/CSS.
+\item Managed user profiles with upload functionalities.
+\item Conducted thorough testing and debugging.
+\end{tightemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     CERTIFICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Certifications:} 
+\begin{tabular}{rll}
+2024	     & AWS Academy Graduate - AWS Academy Cloud Architecting\\
+2022	     & Computer System Certificate (BCIT)\\
+\end{tabular}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.36\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PORTFOLO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Portfolo} 
+\descript{An aspiring Computer System undergraduate with a keen interest in developing innovative software solutions. familiar with data structure and algorithms, experienced in web development with different languages Demonstrates a strong foundation in problem-solving and a collaborative approach to working with cross-functional teams.}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{SKILLS}
+\subsection{LANGUAGES}
+\sectionsep 
+Javascript \textbullet{} PHP Laravel \textbullet{} Java \textbullet{} Python \textbullet{} C++ \textbullet{}  C\# \textbullet{} SQL \textbullet{} React \textbullet{} Swift \textbullet{} CSS \\
+\sectionsep
+\subsection{OS}
+\sectionsep
+Windows \textbullet{} Linux \textbullet{} Mac \\
+\sectionsep
+\sectionsep
+\subsection{Software/Tools}
+\sectionsep
+Crystal Report \textbullet{} IntelliJ \textbullet{} Visual Studio Code  \\ \textbullet{} Figma  \textbullet{}  Git \\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+\subsection{British Columbia \\Institute of Technology (BCIT)}
+\descript{Computer Systems Diploma}
+\location{Expected September 2024 | Burnaby, Canada}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\begin{tightemize}
+\sectionsep
+\item C\# Application Development
+\item SAP Crystal Reports
+\item Front-End Web Dev with React
+\item Web App Development with PHP
+\item iOS Mobile App Development
+\item Algorithm Analysis and Design
+\item Computer Networking
+\item Agile Scrum Framework
+\item UX/UI Design
+\item Programming with Python
+\item Web Development JavaScript
+\item AWS Academy Cloud Architecting
+\item Relational Database \& SQL
+
+\end{tightemize}
+\sectionsep
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
+
